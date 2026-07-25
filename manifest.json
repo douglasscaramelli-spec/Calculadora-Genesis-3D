@@ -1,0 +1,24 @@
+{
+  "name": "Genesis 3D",
+  "short_name": "Genesis",
+  "description": "Genesis Prototipagem — orçamento rápido, pedidos, produtos, MakerWorld e Insights.",
+  "lang": "pt-BR",
+  "start_url": "./corrigido.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "genesis-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "genesis-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
